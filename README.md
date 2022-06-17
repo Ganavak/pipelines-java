@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kavanaghj/JK-TestProject/_apis/build/status/Ganavak.pipelines-java?branchName=main)](https://dev.azure.com/kavanaghj/JK-TestProject/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
